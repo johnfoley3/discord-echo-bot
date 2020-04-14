@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/johnfoley3/discord-echo-bot/issues"
   },
-  "homepage": "https://github.com/johnfoley3/discord-echo-bot#readme"
+  "homepage": "https://github.com/johnfoley3/discord-echo-bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "^12.1.1"
+  }
 }
