@@ -1,0 +1,24 @@
+{
+  "name": "discord-echo-bot",
+  "version": "1.0.0",
+  "description": "A cool, general purpose Discord bot to facilitate me learning how to make them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfoley3/discord-echo-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "echo",
+    "bot"
+  ],
+  "author": "John Foley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnfoley3/discord-echo-bot/issues"
+  },
+  "homepage": "https://github.com/johnfoley3/discord-echo-bot#readme"
+}
